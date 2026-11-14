@@ -1,7 +1,7 @@
 /*
- * Author: VolodimiZankovskiy
- * Email: volodimirzankovskiy@gmail.com
- * Created: 03.11.2026
+ * Author: MarcoGr11
+ * Email: babunbogdan@gmail.com
+ * Created: 21.09.2026
  * Course: Spring Security
  * Task №1. Simple web-application
  */
