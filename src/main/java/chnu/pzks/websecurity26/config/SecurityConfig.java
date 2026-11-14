@@ -1,7 +1,7 @@
 /*
- * Author: MarcoGr11
- * Email: babunbogdan@gmail.com
- * Created: 07.10.2026
+ * Author: VolodimirZankovskiy
+ * Email: volodimirzankovskiy@gmail.com
+ * Created: 14.11.2026
  * Course: Spring Security
  * Task №4. CSRF & Audit
  */
